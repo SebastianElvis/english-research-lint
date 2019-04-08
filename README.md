@@ -2,7 +2,26 @@
 
 This is an academic writing style guide written for progammers, compiled from [Writing in the Sciences by Stanford University](https://www.coursera.org/learn/sciwrite).
 
-## Table of Contents (TODO)
+## Table of Contents
+
+- [(WIP) Academic Writing Style Guide for Programmers](#wip-academic-writing-style-guide-for-programmers)
+  - [Table of Contents](#table-of-contents)
+  - [1. Cut the clutter](#1-cut-the-clutter)
+    - [1.1. Dead weight words and phrases](#11-dead-weight-words-and-phrases)
+    - [1.2. Empty words and phrases](#12-empty-words-and-phrases)
+    - [1.3. Long words or phrases that could be short](#13-long-words-or-phrases-that-could-be-short)
+    - [1.4. Unnecessary jargon and acronyms](#14-unnecessary-jargon-and-acronyms)
+    - [1.5. Repetitive words or phrases](#15-repetitive-words-or-phrases)
+    - [1.6. Generic adverbs](#16-generic-adverbs)
+    - [1.7. Eliminate negatives](#17-eliminate-negatives)
+    - [1.8. Eliminate superfluous uses of "there is/are"](#18-eliminate-superfluous-uses-of-%22there-isare%22)
+    - [1.9. Omit needless propositions](#19-omit-needless-propositions)
+  - [2. Use active voice](#2-use-active-voice)
+    - [2.0 Active voice and passive voice](#20-active-voice-and-passive-voice)
+    - [2.1. It’s OK to use "We" and "I"](#21-its-ok-to-use-%22we%22-and-%22i%22)
+    - [2.2. Use strong verbs](#22-use-strong-verbs)
+    - [2.3. Avoid turning verbs into nouns](#23-avoid-turning-verbs-into-nouns)
+    - [2.4. Don’t bury the main verb](#24-dont-bury-the-main-verb)
 
 ## 1. Cut the clutter
 
@@ -46,8 +65,6 @@ Long words or phrases can always be converted to short words.
 ### 1.4. Unnecessary jargon and acronyms
 
 Too many jargons/acronyms slow down the readers.
-
-For example,
 
 | Wrong | Right     |
 | :---- | :-------- |
