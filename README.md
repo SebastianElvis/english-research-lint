@@ -97,6 +97,8 @@ basically
 generally
 ```
 
+should be removed directly.
+
 ### 1.7. Eliminate negatives
 
 Negatives should be converted to positives.
@@ -116,7 +118,7 @@ Negatives should be converted to positives.
 
 All "There is/are" should be removed.
 
-For example,
+- **Examples**
 
 ```
 There are many ways in which we can arrange the pulleys.
@@ -138,7 +140,9 @@ The data confirm an association between vegetables and cancer.
 
 All needless propositions should be removed.
 
-For example, "on" and "that" are often superfluous.
+e.g. "on" and "that" are often superfluous.
+
+- **Examples**
 
 ```
 The meeting happened on Monday.
@@ -179,7 +183,9 @@ The ball is thrown by her.
 
 Using active voice is more direct.
 
-- Active voice emphasizes author responsibility. For example,
+Reasons to use active voice:
+
+- **Active voice emphasizes author responsibility.**
   
   > No attempt **was made** to contact non-responders because they **were deemed** unimportant to the analysis.
 
@@ -187,14 +193,15 @@ Using active voice is more direct.
 
   > **We did not attempt** to contact non-responders because **we deemed** them unimportant to the analysis.
 
-- Active voice improves readability
+- **Active voice improves readability.**
+  
   > A strong correlation **was found** between use of the passive voice and other sins of writing.
   
   should be
 
   > **We found** a strong correlation between use of passive voice and other sins of writing.
 
-- Active voice reduces ambiguity
+- **Active voice reduces ambiguity.**
 
   > General dysfunction of the immune system at the leukocyte level **is suggested by** both animal and human studies.
 
@@ -208,6 +215,8 @@ Passive voice should be used **sparingly and proposefully**.
 
 ### 2.1. It’s OK to use "We" and "I"
 
+Reasons:
+
 - The active voice is livelier and easier to read.
 - Avoiding personal pronouns **does not** make your science more objective.
 - By agreeing to be an author on the paper, you are taking responsibility for its content. Thus, you should also claim responsibility for the assertions in the text by using “We” or “I”.
@@ -215,7 +224,7 @@ Passive voice should be used **sparingly and proposefully**.
 
 ### 2.2. Use strong verbs
 
-All "to be" verbs and weak verbs should be replaced.
+All "to be" verbs and weak verbs should be replaced by more informative words.
 
 "To be" verbs:
 
