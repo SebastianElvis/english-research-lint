@@ -69,7 +69,7 @@ For example,
 
 ```
 basic tenets of
-methodologic
+methodological
 important
 ```
 
