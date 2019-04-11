@@ -1,6 +1,6 @@
 # (WIP) Academic Writing Style Guide for Programmers
 
-This is an academic writing style guide written for progammers, compiled from [Writing in the Sciences by Stanford University](https://www.coursera.org/learn/sciwrite).
+This is an academic writing style guide written for programmers, compiled from [Writing in the Sciences by Stanford University](https://www.coursera.org/learn/sciwrite).
 
 ## Table of Contents
 
@@ -230,7 +230,7 @@ Reasons to use active voice:
 
   > Both human and animal studies **suggest** that **diabetics** have general immune dysfunction at the leukocyte level.
 
-Passive voice should be used **sparingly and proposefully**.
+Passive voice should be used **sparingly and purposefully**.
 
 - e.g. What is done is more important than who did it.
 
@@ -269,29 +269,27 @@ should be
 
 and
 
-> The WHO **reports that approximately** two-thirds of the world’s diabetics are found in developing countries, and **estimates** that the number of daibetics in these countries will double in the next 25 years.
+> The WHO **reports that approximately** two-thirds of the world’s diabetics are found in developing countries, and **estimates** that the number of diabetics in these countries will double in the next 25 years.
 
 should be
 
-> The WHO **estimates** that two-thrids of the world’s diabetics are found in developing countries, and **projects** that the number of diabetics in these countries will double in the next 25 years.
-
-
+> The WHO **estimates** that two-thirds of the world’s diabetics are found in developing countries, and **projects** that the number of diabetics in these countries will double in the next 25 years.
 
 ### 2.3. Avoid turning verbs into nouns
 
 Don’t kill verbs by turning them into nouns.
 
-| Wrong                            | Right                  |
-| :------------------------------- | :--------------------- |
-| Obtain estimates of              | estimates              |
-| Has seen an expansion in         | has expanded           |
-| Provides a methodologic emphasis | emphasizes methodology |
-| Take an assessment of            | assess                 |
-| provide a review of              | review                 |
-| offer confirmation of            | confirm                |
-| make a decision                  | decide                 |
-| shows a peak                     | peak                   |
-| provide a description of         | describe               |
+| Wrong                              | Right                  |
+| :--------------------------------- | :--------------------- |
+| Obtain estimates of                | estimates              |
+| Has seen an expansion in           | has expanded           |
+| Provides a methodological emphasis | emphasizes methodology |
+| Take an assessment of              | assess                 |
+| provide a review of                | review                 |
+| offer confirmation of              | confirm                |
+| make a decision                    | decide                 |
+| shows a peak                       | peak                   |
+| provide a description of           | describe               |
 
 - **Examples**
 
@@ -303,7 +301,7 @@ should be
 
 ### 2.4. Don’t bury the main verb
 
-Keep the subject and main verb (predicate) close toigether at the start of the sentence.
+Keep the subject and main verb (predicate) close together at the start of the sentence.
 
 Readers are waiting for the verb!
 
