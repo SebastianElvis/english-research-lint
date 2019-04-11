@@ -27,13 +27,13 @@ This is an academic writing style guide written for progammers, compiled from [W
       - [3.1.1. Semicolon `;`](#311-semicolon)
       - [3.1.2. Parentheses `()`](#312-parentheses)
       - [3.1.3 Colon `:`](#313-colon)
-      - [3.1.3.1. Example of introducing a **list**:](#3131-example-of-introducing-a-list)
-      - [3.1.3.2. Example of **amplifying**](#3132-example-of-amplifying)
-      - [3.1.3.3. The rule of three's (lists, examples)](#3133-the-rule-of-threes-lists-examples)
-      - [3.1.3.4. Example of misusing `:`:](#3134-example-of-misusing)
+        - [3.1.3.1. Example of introducing a **list**:](#3131-example-of-introducing-a-list)
+        - [3.1.3.2. Example of **amplifying**](#3132-example-of-amplifying)
+        - [3.1.3.3. The rule of three's (lists, examples)](#3133-the-rule-of-threes-lists-examples)
+        - [3.1.3.4. Example of misusing `:`:](#3134-example-of-misusing)
       - [3.1.4. Dash `-`](#314-dash)
-      - [3.1.4.1. Example of emphasis:](#3141-example-of-emphasis)
-      - [3.1.4.2. Example of emphasis and adding information:](#3142-example-of-emphasis-and-adding-information)
+        - [3.1.4.1. Example of emphasis:](#3141-example-of-emphasis)
+        - [3.1.4.2. Example of emphasis and adding information:](#3142-example-of-emphasis-and-adding-information)
     - [3.2. Parallelism](#32-parallelism)
     - [3.3. Paragraphs](#33-paragraphs)
       - [3.3.1. Logic flow of ideas](#331-logic-flow-of-ideas)
@@ -387,11 +387,11 @@ Here `,` can no longer separate the sentences because of internal `,`, so use `;
   - conclusion
   - amplification
 
-#### 3.1.3.1. Example of introducing a **list**:
+##### 3.1.3.1. Example of introducing a **list**:
 
 > The hydrogen bonds are made as follows: purine position 1 to pyrimidine position 1; purine position 6 to pyrimidine position 6.
 
-#### 3.1.3.2. Example of **amplifying**
+##### 3.1.3.2. Example of **amplifying**
 
 (Here, by using a colon, we're building up the reader's anticipation, we're getting them ready for the punchline.)
 
@@ -401,11 +401,11 @@ Here `,` can no longer separate the sentences because of internal `,`, so use `;
 >
 > Companies use Marsh for the same reason that home sellers use real-estate agents: The agent's knowledge and experience is supposed to help the client get the right deal at the right place.
 
-#### 3.1.3.3. The rule of three's (lists, examples)
+##### 3.1.3.3. The rule of three's (lists, examples)
 
 When it's arbitrary, **3** is a pleasing number of how many examples you list.
 
-#### 3.1.3.4. Example of misusing `:`:
+##### 3.1.3.4. Example of misusing `:`:
 
 > Two aspects of alcohol use are related to brain injuries: as a factor associated with risk of an injury such as a motor vehicle crash, and as a factor in TBI diagnosis, recovery, or survival after injury.
 
@@ -433,14 +433,14 @@ Use the dash to add **emphasis** or to insert an **abrupt definition or descript
 
 Just **don't overuse** it, or it loses its impact.
 
-#### 3.1.4.1. Example of emphasis:
+##### 3.1.4.1. Example of emphasis:
 
 > The drugs did more than prevent new fat accumulation. The also triggered overweight mice to shed significant amounts of fat - up to half their body weight.
 
 - If using `,`, loss of emphasis, more clunky
 - If using `()`, it buries the information
 
-#### 3.1.4.2. Example of emphasis and adding information:
+##### 3.1.4.2. Example of emphasis and adding information:
 
 > Researchers who study shipworms say these mislabeled animals - they're clams, not worms - are actually a scientific treasure.
 
