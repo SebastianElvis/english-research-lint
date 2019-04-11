@@ -22,6 +22,27 @@ This is an academic writing style guide written for progammers, compiled from [W
     - [2.2. Use strong verbs](#22-use-strong-verbs)
     - [2.3. Avoid turning verbs into nouns](#23-avoid-turning-verbs-into-nouns)
     - [2.4. Don’t bury the main verb](#24-dont-bury-the-main-verb)
+  - [3. Paragraph editing](#3-paragraph-editing)
+    - [3.1. Punctuation](#31-punctuation)
+      - [3.1.1. Semicolon `;`](#311-semicolon)
+      - [3.1.2. Parentheses `()`](#312-parentheses)
+      - [3.1.3 Colon `:`](#313-colon)
+      - [3.1.3.1. Example of introducing a **list**:](#3131-example-of-introducing-a-list)
+      - [3.1.3.2. Example of **amplifying**](#3132-example-of-amplifying)
+      - [3.1.3.3. The rule of three's (lists, examples)](#3133-the-rule-of-threes-lists-examples)
+      - [3.1.3.4. Example of misusing `:`:](#3134-example-of-misusing)
+      - [3.1.4. Dash `-`](#314-dash)
+      - [3.1.4.1. Example of emphasis:](#3141-example-of-emphasis)
+      - [3.1.4.2. Example of emphasis and adding information:](#3142-example-of-emphasis-and-adding-information)
+    - [3.2. Parallelism](#32-parallelism)
+    - [3.3. Paragraphs](#33-paragraphs)
+      - [3.3.1. Logic flow of ideas](#331-logic-flow-of-ideas)
+      - [3.3.2. Editing a paragraph](#332-editing-a-paragraph)
+      - [3.3.3. An example of editing a paragraph](#333-an-example-of-editing-a-paragraph)
+    - [3.4. Repetition, Keywords and Acronyms](#34-repetition-keywords-and-acronyms)
+      - [3.4.1. Repetition](#341-repetition)
+      - [3.4.2. Disastrous Synonyms](#342-disastrous-synonyms)
+      - [3.4.3. Acronyms / Initialisms](#343-acronyms--initialisms)
 
 ## 1. Cut the clutter
 
@@ -298,3 +319,246 @@ should be
 ```
 One study found that, ...
 ```
+
+## 3. Paragraph editing
+
+### 3.1. Punctuation
+
+Increasing power to separate:
+
+- **low**
+- Comma `,`
+- Colon `:`
+- Dash `-`
+- Parentheses `()`
+- Semicolon `;`
+- Period `.`
+- **high**
+
+Notes:
+
+- `,` must follow an incomplete sentence.
+- `:`, `-` can follow either complete or incomplete sentences.
+- `()`, `;`, `.` should follow complete sentences.
+
+Increasing formality:
+
+- **low**
+- Dash `-`
+- Parentheses `()`
+- The others (Comma `,`, Colon `:`, Semicolon `;`, Period `.`)
+- **high**
+
+#### 3.1.1. Semicolon `;`
+
+- The semicolon `;` connects two independent clauses.
+
+(Note that a clause always contains a subject and predicate, and an independent clause can stand alone as a complete sentence.)
+
+> Kennedy could be a cold and vain man, and he led a life of privilege. But he knew something about the world; he also cared about it.
+>
+> It was the best of times; it was the worst of times.
+
+- The semicolon `;` separates items in lists that contain internal punctuation (e.g. `,`).
+
+> It happened because people organized and voted for better prospects; because leaders enacted smart, forward-looking policies; because people's perspectives opened up, and with them, societies did too.
+
+Here `,` can no longer separate the sentences because of internal `,`, so use `;`
+
+#### 3.1.2. Parentheses `()`
+
+- The parentheses `()` inserts an afterthought or explanation (a word, phrase, or sentence) into a passage that is grammatically complete without it.
+  - Info in `()` should be additional material.
+  - `()` **de-emphasizes** the inner information.
+  - If you remove the material within the parentheses, the main point of the sentence **should not change**.
+  - Parentheses give the reader permission to **skip over** the material.
+  - But it can be a nice detail for readers.
+
+> They also have a specialized tail, kind of like a monkey's tail, that allows them to cling to a piece of grass (or a lucky diver's finger).
+>
+> This is troubling because, while there are plausible biological stories to connect red meat with cancer and heart disease, it seems unlikely that eating too much red meat could directly cause accidents and injuries. (Unless, as one of my student quipped, red meat eaters are swerving to avoid cows!)
+
+#### 3.1.3 Colon `:`
+
+- Use a colon after an independent clause to **introduce** a
+  - list
+  - quote
+  - explanation
+  - conclusion
+  - amplification
+
+#### 3.1.3.1. Example of introducing a **list**:
+
+> The hydrogen bonds are made as follows: purine position 1 to pyrimidine position 1; purine position 6 to pyrimidine position 6.
+
+#### 3.1.3.2. Example of **amplifying**
+
+(Here, by using a colon, we're building up the reader's anticipation, we're getting them ready for the punchline.)
+
+> That's one reason why I'm so optimistic about the future: the constant churn of scientific progress.
+>
+> The woman suffers from lack of experience and a chronic Democratic disease: compound sentences.
+>
+> Companies use Marsh for the same reason that home sellers use real-estate agents: The agent's knowledge and experience is supposed to help the client get the right deal at the right place.
+
+#### 3.1.3.3. The rule of three's (lists, examples)
+
+When it's arbitrary, **3** is a pleasing number of how many examples you list.
+
+#### 3.1.3.4. Example of misusing `:`:
+
+> Two aspects of alcohol use are related to brain injuries: as a factor associated with risk of an injury such as a motor vehicle crash, and as a factor in TBI diagnosis, recovery, or survival after injury.
+
+Issue:
+
+- The aspects should be nouns, but it starts with `as`.
+
+Refined version:
+
+> Two aspects of alcohol use are related to brain injuries: its association with risk of injury, such as motor vehicle crash, and its post-injury influences on TBI diagnosis, recovery, or survival after injury.
+
+> In one project we have a nutritionist, a psychologist, statisticians, a computer specialist, and dietitians: a whole range of specialties.
+
+Issues:
+
+- Lists and the recipient `a whole range of specialties` are inverse.
+
+Refined version:
+
+> In one project we have a whole range of specialties: a nutritionist, a psychologist, statisticians, a computer specialist, and dietitians.
+
+#### 3.1.4. Dash `-`
+
+Use the dash to add **emphasis** or to insert an **abrupt definition or description** almost **anywhere in the sentence**
+
+Just **don't overuse** it, or it loses its impact.
+
+#### 3.1.4.1. Example of emphasis:
+
+> The drugs did more than prevent new fat accumulation. The also triggered overweight mice to shed significant amounts of fat - up to half their body weight.
+
+- If using `,`, loss of emphasis, more clunky
+- If using `()`, it buries the information
+
+#### 3.1.4.2. Example of emphasis and adding information:
+
+> Researchers who study shipworms say these mislabeled animals - they're clams, not worms - are actually a scientific treasure.
+
+- commas aren't strong enough to set off a clause.
+- If using `()`, it buries the information
+
+### 3.2. Parallelism
+
+Writing sentences in parallel structures.
+
+Pairs of ideas joined by `and`, `or`, or `but` should be written in parallel form.
+
+- SVX but SVX
+
+> The velocity decreased by 50% but the pressure decreased by only 10%.
+
+- Infinitive phrase and infinitive phrase
+
+> We aimed to increase the resolution and to improve picture quality.
+
+- List of ideas
+
+> Locusts denuded fields in Utah, torrents washed away rural Iowa, and blazing heat shriveled Arizona's cotton.
+
+Parallelism forces you to make a choice of the structure and stick to it.
+
+### 3.3. Paragraphs
+
+- 1 paragraph = 1 idea
+- Give away the punch line (conclusion) early
+  - "Inverse pyramid style" in Journalism
+- Paragraph flow is helped by
+  - Logical flow of ideas
+  - parallel sentences and structures
+  - *if necessary*, transition words
+- Make the last sentence memorable
+  - Emphasis at the end.
+  - Your reader remembers the first sentence and the last sentence best.
+
+#### 3.3.1. Logic flow of ideas
+
+- Sequential in time
+  - Avoid the Momento approach!
+- General -> specific
+  - Take-home message first!
+- Logical arguments (if a then b; a; therefore b)
+
+#### 3.3.2. Editing a paragraph
+
+- Outline (What is the paragraph trying to convey?)
+  - Main idea of the paragraph
+  - Major points / supporting ideas
+    - Sub-supporting ideas
+  - The target is to bring out all relevant info and get rid of irrelevant info
+- Re-organize sentences
+  - Boil sentences down to **upshots**
+  - Put upshots all togethers
+  - Re-order upshots, so that sentences are re-ordered
+  - Find and delete irrelevant info
+- Sentence-level editing
+
+#### 3.3.3. An example of editing a paragraph
+
+
+> The concept of chocolate having potential therapeutic benefits for people with diabetes mellitus, especially type 2 diabetes mellitus, presents a number of intellectual challenges, from both clinical and sociological perspectives. It seems almost counterintuitive to suggest an energy-dense food that is high in sugar, and often seen as a treat or a “dietary sin”, could offer such promise. However, a large volume of mechanistic and animal model studies has been undertaken demonstrating the potential benefits of cocoa and chocolate for both glucose regulation and modification of complications associated with diabetes. Cesar Fraga in the American Journal of Clinical Nutrition first proposed the potential of chocolate for people with diabetes in 2005. It was suggested that we should consume more cocoa and chocolate to reduce the burdens of hypertension and diabetes.(1) Grassi and colleagues (2) further reinforced this potential for its antihypertensive and insulin-sensitizing effect with the mechanistic data. However, the hypothesis of chocolate having a beneficial effect remains counterintuitive to the average consumer and has yet to gain support among the wider medical and healthcare community.
+
+1. Find the **upshot** for every sentence.
+
+
+| Original                                                                                                                                                                                                                                | Upshot                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| The concept of chocolate having potential therapeutic benefits for people with diabetes mellitus, especially type 2 diabetes mellitus, presents a number of intellectual challenges, from both clinical and sociological perspectives.  | It's surprising that chocolate might be healthy.                                               |
+| it seems almost counterintuitive to suggest an energy-dense food that is high in sugar, and often seen as a treat or a “dietary sin”, could offer such promise.                                                                       | It's counterintuitive that chocolate might be healthy.                                         |
+| However, a large volume of mechanistic and animal model studies has been undertaken demonstrating the potential benefits of cocoa and chocolate for both glucose regulation and modification of complications associated with diabetes. | Many studies suggest chocolate is healthy.                                                     |
+| Cesar Fraga in the American Journal of Clinical Nutrition first proposed the potential of chocolate for people with diabetes in 2005.                                                                                                   | The first of these studies was in 2005.                                                        |
+| It was suggested that we should consume more cocoa and chocolate to reduce the burdens of hypertension and diabetes.(1)                                                                                                                 | The study showed benefits for hypertension and diabetes.                                       |
+| Grassi and colleagues (2) further reinforced this potential for its antihypertensive and insulin-sensitizing effect with the mechanistic data.                                                                                          | Another study showed benefits for hypertension and diabetes.                                   |
+| However, the hypothesis of chocolate having a beneficial effect remains counterintuitive to the average consumer and has yet to gain support among the wider medical and healthcare community.                                          | It's counterintuitive that chocolate might be healthy, so medical professionals are skeptical. |
+
+
+2. **Re-org**
+
+| Original                                                                                       | Action                              |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------- |
+| Many studies suggest chocolate is healthy.                                                     | Remain                              |
+| The first of these studies was in 2005.                                                        | Remain                              |
+| The study showed benefits for hypertension and diabetes.                                       | These studies show ...              |
+| Another study showed benefits for hypertension and diabetes.                                   | Delete                              |
+| It's counterintuitive that chocolate might be healthy, so medical professionals are skeptical. | Medical professionals are skeptical |
+| It's surprising that chocolate might be healthy.                                               | Delete                              |
+| It's counterintuitive that chocolate might be healthy.                                         | Remain                              |
+
+Edited version:
+
+> Many mechanistic and animal studies suggest health benefits for cocoa and chocolate particularly for patients with hypertension and type 2 diabetes. These studies suggest that cocoa and chocolate can lower blood pressure, improve glucose regulation, improve insulin sensitivity and reduce complications from diabetes. But the idea of chocolate is medicine has yet to gain widespread support among consumers or among the wider medical and health care community. It seems counterintuitive that a high sugar energy dense food - one often seen as a treat or dietary sin - could promote health.
+
+### 3.4. Repetition, Keywords and Acronyms
+
+#### 3.4.1. Repetition
+
+It's okay to repeat a word. Sometimes, you do need repeating a word.
+
+- You need to repeat keywords to keep consistent.
+  - e.g. name of comparison groups, variables, or instruments
+
+#### 3.4.2. Disastrous Synonyms
+
+Whereas it's just amusing or inelegant in some types of writing, in scientific writing it's a **disaster**.
+
+The reader may think you are referring to a different instrument, model, group, variable, etc.
+
+#### 3.4.3. Acronyms / Initialisms
+
+Diff between acronyms/initialisms
+
+- Acronyms create new words, initialisms just use all first letters.
+- Resist the temptation to abbreviate words simply because they occur frequently!
+- Use only standard acronyms/initialisms. DON'T make them up!
+  - e.g. miR instead of micro RNA
+- If you must use acronyms, define them separately in the abstract, each table/figure, and the text. 
+  - For long papers, redefine occasionally (as readers don't typically read start to finish).
