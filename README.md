@@ -43,6 +43,24 @@ This is an academic writing style guide written for programmers, compiled from [
       - [3.4.1. Repetition](#341-repetition)
       - [3.4.2. Disastrous Synonyms](#342-disastrous-synonyms)
       - [3.4.3. Acronyms / Initialisms](#343-acronyms--initialisms)
+  - [4. Writing Process](#4-writing-process)
+    - [4.1 Overview of the Writing Process](#41-overview-of-the-writing-process)
+    - [4.2. The Pre-writing Step](#42-the-pre-writing-step)
+      - [4.2.1. Organising info](#421-organising-info)
+      - [4.2.2. Brainstorm](#422-brainstorm)
+      - [4.2.3 Compositional organisation](#423-compositional-organisation)
+    - [4.3. The Writing Step](#43-the-writing-step)
+    - [4.4. The Revision Step](#44-the-revision-step)
+      - [4.4.1. Read your work out loud](#441-read-your-work-out-loud)
+      - [4.4.2. Do a verb check](#442-do-a-verb-check)
+      - [4.4.3. Cut clutter](#443-cut-clutter)
+      - [4.4.4. Do an organisational (high-level) review](#444-do-an-organisational-high-level-review)
+      - [4.4.5. Get feedback from others](#445-get-feedback-from-others)
+      - [4.4.6. Get editing help](#446-get-editing-help)
+    - [4.5. Checklist for the final draft](#45-checklist-for-the-final-draft)
+      - [4.5.1. Check for consistency](#451-check-for-consistency)
+      - [4.5.2. Check for numerical consistency](#452-check-for-numerical-consistency)
+      - [4.5.3. Check your references](#453-check-your-references)
 
 ## 1. Cut the clutter
 
@@ -560,3 +578,136 @@ Diff between acronyms/initialisms
   - e.g. miR instead of micro RNA
 - If you must use acronyms, define them separately in the abstract, each table/figure, and the text. 
   - For long papers, redefine occasionally (as readers don't typically read start to finish).
+
+
+
+## 4. Writing Process
+
+### 4.1 Overview of the Writing Process
+
+1. **Prewriting** (70%)
+   - Collect, synthesise, and organise info
+   - Branstorm take-home messgaes
+   - Work out ideas away from the computer
+   - Develop a roadmap/outline
+2. **Writing the first draft** (10%)
+   - Put facts/ideas together in organised prose
+3. **Revision** (20%)
+   - Read the work out loud
+   - Get rid of clutter
+   - Do a verb check
+   - Get feedback from others
+
+**Bad examples:**
+- What will happen if mixing prewriting and writing
+  - Write a paragraph, google for data/statistics/..., be distracted from the big picture, and the section ends up with chaos.
+- What will happen if mixing writing and revision
+  - Be distracted by details and lose big pictures
+
+
+### 4.2. The Pre-writing Step
+
+#### 4.2.1. Organising info
+
+- Get organised first
+  - DON'T try to write and gather info simultaneously
+  - Gather and organise info BEFORE writing the first draft
+- Have your own organisational system
+  1. Read a lot of papers
+  2. Write critical info in a single document
+  3. Organise them
+  4. Have the roadmap of the paper
+  5. Develop the roadmap to a more detailed structure
+
+#### 4.2.2. Brainstorm
+
+- Stay away from the computer
+- "Write" on the go!
+  - When exercising, driving, waiting, multitasking...
+- Work out take-home messages
+- Organise your paper
+- Write memorable lines/words
+
+#### 4.2.3 Compositional organisation
+
+- Similar paragraphs should be grouped/merged
+- DON'T "Bait-and-Switch" readers too many times
+  - Bait-and-Switch: Argument for A, argument for B, argument for A, ...
+  - When discussing a controversy, follow this routine
+    1. All arguments
+    2. All counter-arguments
+    3. All rebuttals
+
+
+### 4.3. The Writing Step
+
+- DON'T be a perfectionist
+- The goal of the first draft is to get the ideas down in complete sentences **in order**
+- Focus on logical organisation more than sentence-level details
+
+### 4.4. The Revision Step
+
+#### 4.4.1. Read your work out loud
+
+- Brain processes spoken words different than written words.
+
+
+#### 4.4.2. Do a verb check
+
+- Lackluster verbs (e.g., is, are)
+- Passive verbs (e.g., was observed)
+- Buried verbs (e.g., long_subject... verb... )
+
+#### 4.4.3. Cut clutter
+
+- Dead weight words/phrases (e.g., it should be emphasised that...)
+- Empty words/phrases (e.g., basic tenets of, important)
+- Long words/phrases that can be short
+- Unnecessary jargon/acronyms
+- Repetitive words/phrases (e.g., teaches clinicians/guides clinicians)
+- Adverbs (e.g., very, really, quite, basically)
+
+
+
+#### 4.4.4. Do an organisational (high-level) review
+- Tag each paragraph with a phrase/sentence summarising the main point
+- Move paragraphs abound to improve logical flow and bring similar ideas together
+
+
+#### 4.4.5. Get feedback from others
+
+- Preferably outside your department
+- Without technical background, they should easily grasp
+  - main findings
+  - take-home messages
+  - significance of the work
+- Ask them to point out particularly hard-to-read sentences/paragraphs
+
+#### 4.4.6. Get editing help
+
+- Find a good editor to edit your work
+
+### 4.5. Checklist for the final draft
+
+#### 4.5.1. Check for consistency
+
+- Inconsistency
+  - Things that are contradictory in different places
+
+#### 4.5.2. Check for numerical consistency
+
+- Do the numbers in the Abstract match the numbers in tables/figures/text?
+- DO the numbers in the text match those in the tables/figures?
+- Do the numbers in each table/figure match those in other tables/figure?
+
+#### 4.5.3. Check your references
+
+- Do you have "reference to nowhere"?
+- Reference does not provide the indicated info/fact, including
+  - Authors misinterpreted/exaggerated the findings from the original source
+  - Reference cites a secondary source than a primary source (i.e., citation propagation).
+  - AUthors mis-numbered the references.
+
+Summary
+- Always cite/go back to primary sources!
+- Assume that other authors have made errors in citing sources!
