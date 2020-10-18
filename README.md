@@ -587,7 +587,7 @@ Diff between acronyms/initialisms
 
 1. **Prewriting** (70%)
    - Collect, synthesise, and organise info
-   - Branstorm take-home messgaes
+   - Brainstorm take-home messages
    - Work out ideas away from the computer
    - Develop a roadmap/outline
 2. **Writing the first draft** (10%)
