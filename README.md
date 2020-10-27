@@ -70,6 +70,39 @@ This is an academic writing style guide written for programmers, compiled from [
 
 2) Good writing is elegant and stylish. *(Takes time, revision, and a good editor!)*
 
+### 0.2 What makes a good writer?
+
+1) Having something to day.
+
+2) Logical thinking.
+
+3) A few simple, *learnable* rules of style.
+
+### 0.3 Additional step to become a better writer
+
+- Read, pay attention, and imitate.
+- Let go of “academic” writing habits (deprogramming step!)
+- Talk about your research before trying to write about it.
+- Write to engage your readers—try not to bore them!
+- Stop waiting for “inspiration.”
+-  **Accept that writing is hard for everyone.**
+- Revise. Nobody gets it perfect on the first try.
+- Learn how to cut ruthlessly. Never become too attached to your words.
+
+### 0.4 Themes in good scientific writing
+
+1) Complex ideas don't require complex language.
+
+2) Scientific writing should be easy and even enjoyable to read!
+
+### 0.5 Overview: Principles of effective writing
+
+1) **Cut** unnecessary words and phrases; learn to part with your words!
+
+2) Use the **active voice** (subject + verb + object).
+
+3) Write with **verbs**: use strong verbs, avoid turning verbs into nouns, and <u>don’t bury</u> the main verb!
+
 ## 1. Cut the clutter
 
 ### 1.1. Dead weight words and phrases
