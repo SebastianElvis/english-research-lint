@@ -240,6 +240,25 @@ The meeting happened Monday.
 They agreed it was true.
 ```
 
+### 1.10 EXAMPLES
+
+#### 1.10.1 Example 1
+
+Bad:
+
+```
+These findings imply that the rates of ascorbate radical production and its recycling via dehydroascorbate reductatse to replenish the ascorbate pool are equivalent at the lower irradiance, but not equivalent at higher irradiance with the rate of ascorbate radical production
+exceeding its recycling back to ascorbate.
+```
+
+Better:
+
+```
+These findings imply that, at low irradiation, ascorbate radicals are
+produced and recycled at the same rate, but at high irradiation, they are produced faster than they can be recycled back to ascorbate.
+```
+
+
 
 ## 2. Use active voice
 
