@@ -62,6 +62,14 @@ This is an academic writing style guide written for programmers, compiled from [
       - [4.5.2. Check for numerical consistency](#452-check-for-numerical-consistency)
       - [4.5.3. Check your references](#453-check-your-references)
 
+## 0. Introduction
+
+### 0.1 What makes good writing?
+
+1) Good writing communicates an idea clearly and effectively. *(Takes having something to say and clear thinking.)*
+
+2) Good writing is elegant and stylish. *(Takes time, revision, and a good editor!)*
+
 ## 1. Cut the clutter
 
 ### 1.1. Dead weight words and phrases
