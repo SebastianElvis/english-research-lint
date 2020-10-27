@@ -97,9 +97,13 @@ should be removed directly.
 
 Long words or phrases can always be converted to short words. 
 
-| Wrong                        | Right |
-| :--------------------------- | :---- |
-| based on the assumption that | if    |
+| Wordy                        | Crisp  |
+| :--------------------------- | :----- |
+| based on the assumption that | if     |
+| a majority of                | most   |
+| a number of                  | many   |
+| give rise to                 | cause  |
+| have an effect on            | affect |
 
 ### 1.4. Unnecessary jargon and acronyms
 
