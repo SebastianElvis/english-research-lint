@@ -250,7 +250,7 @@ Reasons to use active voice:
 
 Passive voice should be used **sparingly and purposefully**.
 
-- e.g. What is done is more important than who did it.
+- e.g. In the *methods section* where what was done is more important than who did it.
 
 ### 2.1. It’s OK to use "We" and "I"
 
