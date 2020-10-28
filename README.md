@@ -342,6 +342,72 @@ should be
 One study found that, ...
 ```
 
+### 2.5 A few grammar tips
+
+#### 2.5.1 "Data are” not “Data is”…
+
+The word "data" is plural.
+
+```
+These data show an unusual trend.
+The data support the conclusion.
+The data are critical
+```
+
+#### 2.5.2 Affect vs effect
+
+- Affect is the verb “to influence”
+  - The class affected her.
+  -  As a noun, affect denotes feeling or emotion shown by facial expression or body language.
+- Effect is the noun form of this influence
+  - The class had an effect on her.
+  - As a verb, effect means to bring about or to cause, as in “to effect a change”
+
+#### 2.5.3 Compared to vs. compared with
+
+- Compare to = to point out <u>similarities</u> between different things
+- Compare with (used more often in science) = to point out <u>differences</u> between similar things
+
+```
+Shall I compare thee to a summer’s day?
+
+Brain tumors are relatively rare compared with more common cancers, such as those of the lung, breast, and prostate.
+```
+
+
+
+#### 2.5.4 That vs. which
+
+- “That” is the restrictive (defining) pronoun
+- “Which” is the nonrestrictive (non-defining) pronoun
+
+Key question: Is your clause essential or nonessential?
+
+- THAT: The essential clause cannot be eliminated without changing the meaning of the sentence.
+- WHICH: The non-essential clause can be eliminated without altering the basic meaning of the sentence (and must be set off by commas).
+
+```markdown
+The bike *that* is broken is in the garage.
+(Identifies which bike of many.)
+
+The bike, *which* is broken, is in the garage.
+(Adds a fact about the only bike in question).
+```
+
+
+
+#### 2.5.5 Singular antecedents
+
+Do not use “they” or “their” when the subject is singular. To avoid gender choice, turn to a plural!
+
+```markdown
+Each student worries about ~~their~~ grade.
+Each student worries about her grade.
+*Better*: All students worry about their grades.
+```
+
+
+
 ## 3. Paragraph editing
 
 ### 3.1. Punctuation
