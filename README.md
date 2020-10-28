@@ -260,6 +260,12 @@ Reasons:
 - Avoiding personal pronouns **does not** make your science more objective.
 - By agreeing to be an author on the paper, you are **taking responsibility** for its content. Thus, you should also claim responsibility for the assertions in the text by using “We” or “I”.
 
+Additional Reasons:
+
+- Journals want this! (e.g. [Science magazine](http://www.sciencemag.org/site/feature/contribinfo/prep/res/style.xhtml) advises: “Use active voice when suitable, particularly when necessary for correct syntax" )
+- Great authors do it! (Watson and Crick’s celebrated 1953 [paper](http://www.exploratorium.edu/origins/coldspring/printit.html) in Nature begins:
+  “We wish to suggest a structure for the salt of deoxyribose nucleic acid (D.N.A.).”)
+
 
 ### 2.2. Use strong verbs
 
