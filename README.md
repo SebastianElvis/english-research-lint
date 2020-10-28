@@ -258,7 +258,7 @@ Reasons:
 
 - The active voice is livelier and easier to read.
 - Avoiding personal pronouns **does not** make your science more objective.
-- By agreeing to be an author on the paper, you are taking responsibility for its content. Thus, you should also claim responsibility for the assertions in the text by using “We” or “I”.
+- By agreeing to be an author on the paper, you are **taking responsibility** for its content. Thus, you should also claim responsibility for the assertions in the text by using “We” or “I”.
 
 
 ### 2.2. Use strong verbs
