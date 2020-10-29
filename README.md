@@ -811,9 +811,7 @@ The reader may think you are referring to a different instrument, model, group, 
 
 #### 3.4.3. Acronyms / Initialisms
 
-Diff between acronyms/initialisms
-
-- Acronyms create new words, initialisms just use all first letters.
+- Acronyms create new words; initialisms just use all first letters.
 - Resist the temptation to abbreviate words simply because they occur frequently!
 - Use only standard acronyms/initialisms. DON'T make them up!
   - e.g. miR instead of micro RNA
