@@ -740,7 +740,7 @@ Parallelism forces you to make a choice of the structure and stick to it.
 #### 3.3.1. Logic flow of ideas
 
 - Sequential in time
-  - Avoid the Momento approach!
+  - Avoid the [Memento](https://en.wikipedia.org/wiki/Memento_(film)#Film_structure) approach!
 - General -> specific
   - Take-home message first!
 - Logical arguments (if a then b; a; therefore b)
