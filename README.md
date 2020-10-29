@@ -581,16 +581,14 @@ One study found that, ...
 
 ### 3.1. Punctuation
 
-Increasing power to separate:
+Increasing power to separate (from low to high):
 
-- **low**
 - Comma `,`
 - Colon `:`
 - Dash `-`
 - Parentheses `()`
 - Semicolon `;`
 - Period `.`
-- **high**
 
 Notes:
 
@@ -598,13 +596,11 @@ Notes:
 - `:`, `-` can follow either complete or incomplete sentences.
 - `()`, `;`, `.` should follow complete sentences.
 
-Increasing formality:
+Increasing formality (from low to high):
 
-- **low**
 - Dash `-`
 - Parentheses `()`
 - The others (Comma `,`, Colon `:`, Semicolon `;`, Period `.`)
-- **high**
 
 #### 3.1.1. Semicolon `;`
 
