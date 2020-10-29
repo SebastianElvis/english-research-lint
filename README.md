@@ -62,6 +62,47 @@ This is an academic writing style guide written for programmers, compiled from [
       - [4.5.2. Check for numerical consistency](#452-check-for-numerical-consistency)
       - [4.5.3. Check your references](#453-check-your-references)
 
+## 0. Introduction
+
+### 0.1 What makes good writing?
+
+1) Good writing communicates an idea clearly and effectively. *(Takes having something to say and clear thinking.)*
+
+2) Good writing is elegant and stylish. *(Takes time, revision, and a good editor!)*
+
+### 0.2 What makes a good writer?
+
+1) Having something to day.
+
+2) Logical thinking.
+
+3) A few simple, *learnable* rules of style.
+
+### 0.3 Additional step to become a better writer
+
+- Read, pay attention, and imitate.
+- Let go of “academic” writing habits (deprogramming step!)
+- Talk about your research before trying to write about it.
+- Write to engage your readers—try not to bore them!
+- Stop waiting for “inspiration.”
+-  **Accept that writing is hard for everyone.**
+- Revise. Nobody gets it perfect on the first try.
+- Learn how to cut ruthlessly. Never become too attached to your words.
+
+### 0.4 Themes in good scientific writing
+
+1) Complex ideas don't require complex language.
+
+2) Scientific writing should be easy and even enjoyable to read!
+
+### 0.5 Overview: Principles of effective writing
+
+1) **Cut** unnecessary words and phrases; learn to part with your words!
+
+2) Use the **active voice** (subject + verb + object).
+
+3) Write with **verbs**: use strong verbs, avoid turning verbs into nouns, and <u>don’t bury</u> the main verb!
+
 ## 1. Cut the clutter
 
 ### 1.1. Dead weight words and phrases
@@ -97,9 +138,13 @@ should be removed directly.
 
 Long words or phrases can always be converted to short words. 
 
-| Wrong                        | Right |
-| :--------------------------- | :---- |
-| based on the assumption that | if    |
+| Wordy                        | Crisp  |
+| :--------------------------- | :----- |
+| based on the assumption that | if     |
+| a majority of                | most   |
+| a number of                  | many   |
+| give rise to                 | cause  |
+| have an effect on            | affect |
 
 ### 1.4. Unnecessary jargon and acronyms
 
@@ -195,6 +240,202 @@ The meeting happened Monday.
 They agreed it was true.
 ```
 
+### 1.10 EXAMPLES
+
+#### 1.10.1 Example 1
+
+Bad:
+
+```
+These findings imply that the rates of ascorbate radical production and its recycling via dehydroascorbate reductatse to replenish the ascorbate pool are equivalent at the lower irradiance, but not equivalent at higher irradiance with the rate of ascorbate radical production
+exceeding its recycling back to ascorbate.
+```
+
+Better:
+
+```
+These findings imply that, at low irradiation, ascorbate radicals are
+produced and recycled at the same rate, but at high irradiation, they are produced faster than they can be recycled back to ascorbate.
+```
+
+#### 1.10.2 Example 2
+
+Bad:
+
+```
+Dysregulation of physiologic microRNA (miR) activity has been shown to play an important role in tumor initiation and progression, including gliomagenesis. Therefore, molecular species that can regulate miR activity on their target RNAs without affecting the expression of relevant mature miRs may play equally relevant roles in cancer
+```
+
+Better:
+
+```
+Changes in microRNA expression play a role in cancer, including glioma.
+Therefore, events that disrupt microRNAs from binding to their target
+RNAs may also promote cancer
+```
+#### 1.10.3 Example 3
+
+Bad:
+
+```
+This paper provides a review of the basic tenets of cancer biology study design, using as examples studies that illustrate the methodologic challenges or that demonstrate successful solutions to the difficulties inherent in biological research.
+```
+
+Better:
+
+```
+This paper reviews cancer biology study design, using examples that illustrate specific challenges and solutions
+```
+
+#### 1.10.4 Example 4
+
+Bad:
+
+```
+As it is well known, increased athletic activity has been related to a
+profile of lower cardiovascular risk, lower blood pressure levels, and
+improved muscular and cardio-respiratory performance.
+```
+
+Better:
+
+```
+Increased athletic activity is associated with lower cardiovascular risk, lower blood pressure, and improved fitness.
+
+- or -
+
+Increased athletic activity lowers cardiovascular risk and blood pressure, and improves fitness. (stronger level of evidence)
+```
+
+#### 1.10.5 Example 5
+
+Bad:
+
+```
+The experimental demonstration is the first of its kind and is a proof of principle for the concept of laser driven particle acceleration in a structure loaded vacuum
+```
+
+Better:
+
+```
+The experiment provides the first proof of principle of laser-driven particle acceleration in a structure-loaded vacuum.
+```
+
+#### 1.10.6 Example 6
+
+Bad:
+
+```
+Brain injury incidence shows two peak periods in almost all reports: rates are the highest in young people and the elderly.
+```
+
+Better:
+
+```
+Brain injury incidence peaks in the young and the elderly.
+```
+
+#### 1.10.7 Example 7
+
+Bad:
+
+```
+A robust cell-mediated immune response is necessary, and deficiency in
+this response predisposes an individual towards active TB
+```
+
+Better:
+
+```
+Deficiency in T-cell-mediated immune response predisposes an individual to active TB
+```
+
+#### 1.10.8 Example 8
+
+Bad:
+
+```
+Anti-inflammatory drugs may be protective for the occurrence of Alzheimer’s Disease.
+```
+
+Better:
+
+```
+Anti-inflammatory drugs may protect against Alzheimer’s Disease.
+```
+
+#### 1.10.9 Example 9
+
+Bad:
+
+```
+Clinical seizures have been estimated to occur in 0.5% to 2.3% of the neonatal population.
+```
+
+Better:
+
+```
+Clinical seizures occur in 0.5% to 2.3% of newborns.
+```
+
+#### 1.10.10 Example 10
+
+Bad:
+
+```
+Ultimately p53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility.
+```
+
+Better:
+
+```
+Besides preventing cancer, p53 also plays roles in aging, differentiation, and fertility.
+```
+
+#### 1.10.11 Example 11
+
+Bad:
+
+```
+Injuries to the brain and spinal cord have long been known to be among the most devastating and expensive of all injuries to treat medically
+```
+
+Better:
+
+```
+Injuries to the brain and spinal cord are among the most devastating and
+expensive.
+```
+
+#### 1.10.12 Example 12
+
+Bad:
+
+```
+An IQ test measures an individual’s abilities to perform functions that usually fall in the domains of verbal communication, reasoning,
+and performance on tasks that represent motor and spatial capabilities.
+```
+
+Better:
+
+```
+An IQ test measures an individual’s verbal, reasoning, or motor and spatial abilities.
+```
+
+#### 1.10.13 Example 13
+
+Bad:
+
+```
+As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy.
+```
+
+Better:
+
+```
+Figure 2 shows that a return kinetic energy less than 3.2 Up yields two
+electron trajectories.
+```
 
 ## 2. Use active voice
 
