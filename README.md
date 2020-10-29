@@ -754,8 +754,8 @@ Parallelism forces you to make a choice of the structure and stick to it.
   - The target is to bring out all relevant info and get rid of irrelevant info
 - Re-organize sentences
   - Boil sentences down to **upshots**
-  - Put upshots all togethers
-  - Re-order upshots, so that sentences are re-ordered
+  - Put upshots all together
+  - Re-order upshots and hence sentences
   - Find and delete irrelevant info
 - Sentence-level editing
 
