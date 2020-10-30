@@ -767,16 +767,14 @@ The prosthetic leg reduces work and energy loss compared with a healthy ankle jo
 
 ### 3.1. Punctuation
 
-Increasing power to separate:
+Increasing power to separate (from low to high):
 
-- **low**
 - Comma `,`
 - Colon `:`
 - Dash `-`
 - Parentheses `()`
 - Semicolon `;`
 - Period `.`
-- **high**
 
 Notes:
 
@@ -784,13 +782,11 @@ Notes:
 - `:`, `-` can follow either complete or incomplete sentences.
 - `()`, `;`, `.` should follow complete sentences.
 
-Increasing formality:
+Increasing formality (from low to high):
 
-- **low**
 - Dash `-`
 - Parentheses `()`
 - The others (Comma `,`, Colon `:`, Semicolon `;`, Period `.`)
-- **high**
 
 #### 3.1.1. Semicolon `;`
 
@@ -926,7 +922,7 @@ Parallelism forces you to make a choice of the structure and stick to it.
 #### 3.3.1. Logic flow of ideas
 
 - Sequential in time
-  - Avoid the Momento approach!
+  - Avoid the [Memento](https://en.wikipedia.org/wiki/Memento_(film)#Film_structure) approach!
 - General -> specific
   - Take-home message first!
 - Logical arguments (if a then b; a; therefore b)
@@ -940,8 +936,8 @@ Parallelism forces you to make a choice of the structure and stick to it.
   - The target is to bring out all relevant info and get rid of irrelevant info
 - Re-organize sentences
   - Boil sentences down to **upshots**
-  - Put upshots all togethers
-  - Re-order upshots, so that sentences are re-ordered
+  - Put upshots all together
+  - Re-order upshots and hence sentences
   - Find and delete irrelevant info
 - Sentence-level editing
 
@@ -997,9 +993,7 @@ The reader may think you are referring to a different instrument, model, group, 
 
 #### 3.4.3. Acronyms / Initialisms
 
-Diff between acronyms/initialisms
-
-- Acronyms create new words, initialisms just use all first letters.
+- Acronyms create new words; initialisms just use all first letters.
 - Resist the temptation to abbreviate words simply because they occur frequently!
 - Use only standard acronyms/initialisms. DON'T make them up!
   - e.g. miR instead of micro RNA
