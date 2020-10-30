@@ -491,7 +491,7 @@ Reasons to use active voice:
 
 Passive voice should be used **sparingly and purposefully**.
 
-- e.g. What is done is more important than who did it.
+- e.g. In the *methods section* where what was done is more important than who did it.
 
 ### 2.1. It’s OK to use "We" and "I"
 
@@ -499,7 +499,13 @@ Reasons:
 
 - The active voice is livelier and easier to read.
 - Avoiding personal pronouns **does not** make your science more objective.
-- By agreeing to be an author on the paper, you are taking responsibility for its content. Thus, you should also claim responsibility for the assertions in the text by using “We” or “I”.
+- By agreeing to be an author on the paper, you are **taking responsibility** for its content. Thus, you should also claim responsibility for the assertions in the text by using “We” or “I”.
+
+Additional Reasons:
+
+- Journals want this! (e.g. [Science magazine](http://www.sciencemag.org/site/feature/contribinfo/prep/res/style.xhtml) advises: “Use active voice when suitable, particularly when necessary for correct syntax" )
+- Great authors do it! (Watson and Crick’s celebrated 1953 [paper](http://www.exploratorium.edu/origins/coldspring/printit.html) in Nature begins:
+  “We wish to suggest a structure for the salt of deoxyribose nucleic acid (D.N.A.).”)
 
 
 ### 2.2. Use strong verbs
@@ -575,6 +581,186 @@ should be
 
 ```
 One study found that, ...
+```
+
+### 2.5 A few grammar tips
+
+#### 2.5.1 "Data are” not “Data is”…
+
+The word "data" is plural.
+
+```
+These data show an unusual trend.
+The data support the conclusion.
+The data are critical
+```
+
+#### 2.5.2 Affect vs effect
+
+- Affect is the verb “to influence”
+  - The class affected her.
+  -  As a noun, affect denotes feeling or emotion shown by facial expression or body language.
+- Effect is the noun form of this influence
+  - The class had an effect on her.
+  - As a verb, effect means to bring about or to cause, as in “to effect a change”
+
+#### 2.5.3 Compared to vs. compared with
+
+- Compare to = to point out <u>similarities</u> between different things
+- Compare with (used more often in science) = to point out <u>differences</u> between similar things
+
+```
+Shall I compare thee to a summer’s day?
+
+Brain tumors are relatively rare compared with more common cancers, such as those of the lung, breast, and prostate.
+```
+
+
+
+#### 2.5.4 That vs. which
+
+- “That” is the restrictive (defining) pronoun
+- “Which” is the nonrestrictive (non-defining) pronoun
+
+Key question: Is your clause essential or nonessential?
+
+- THAT: The essential clause cannot be eliminated without changing the meaning of the sentence.
+- WHICH: The non-essential clause can be eliminated without altering the basic meaning of the sentence (and must be set off by commas).
+
+```markdown
+The bike *that* is broken is in the garage.
+(Identifies which bike of many.)
+
+The bike, *which* is broken, is in the garage.
+(Adds a fact about the only bike in question).
+```
+
+
+
+#### 2.5.5 Singular antecedents
+
+Do not use “they” or “their” when the subject is singular. To avoid gender choice, turn to a plural!
+
+```markdown
+Each student worries about ~~their~~ grade.
+Each student worries about her grade.
+*Better*: All students worry about their grades.
+```
+
+### 2.6 EXAMPLES
+#### 2.6.1  Example 1
+
+Bad:
+
+```
+The fear expressed by some teachers that students would not learn statistics well if they were permitted to use canned computer programs has not been realized in our experience. A careful monitoring of achievement levels before and after the introduction of computers in the teaching of our course revealed no appreciable change in students’ performances.
+```
+
+Better:
+
+```
+Many teachers feared that the use of canned computer programs would prevent students from learning statistics. We monitored student
+achievement levels before and after the introduction of computers in our course and found no detriments in performance.
+```
+#### 2.6.2  Example 2
+
+Bad:
+
+```
+Review of each center’s progress in recruitment is important to ensure that the cost involved in maintaining each center’s participation is worthwhile.
+```
+
+Better:
+
+```
+We should review each center’s recruitment progress to make sure its continued participation is cost-effective.
+```
+
+#### 2.6.3  Example 3
+
+Bad:
+
+```
+It should be emphasized that these proportions generally are not the result of significant increases in moderate and severe injuries, but in many instances reflect mildly injured persons not being seen at a hospital.
+```
+
+Better:
+
+```
+Shifting proportions in injury severity may reflect stricter hospital admission criteria rather than true increases in moderate and severe injuries.
+```
+
+#### 2.6.4  Example 4
+
+Bad:
+
+```
+Important studies to examine the descriptive epidemiology of autism, including the prevalence and changes in the characteristics
+of the population over time, have begun.
+```
+
+Better:
+
+```
+Studies have begun to describe the epidemiology of autism, including recent changes in the disorder’s prevalence and characteristics.
+```
+
+#### 2.6.5  Example 5
+
+Bad:
+
+```
+There are multiple other mechanisms that are important, but most of them are suspected to only have a small impact or are only important because of impact on one of the three primary mechanisms.
+```
+
+Better:
+
+```
+Multiple other mechanisms play only a small role or work by impacting one of the three primary mechanisms.
+```
+
+#### 2.6.6  Example 6
+
+Bad:
+
+```
+After rejecting paths with poor signal-tonoise ratios, we were left with 678 velocity measurements of waves with 7.5 seconds period and 891 measurements of 15 second waves.
+```
+
+Better:
+
+```
+Rejecting paths with poor signal-to-noise ratios left 678 velocity measurements of 7.5-second waves and 891 of 15-second waves.
+```
+
+#### 2.6.7  Example 7
+
+Bad:
+
+```
+It is suspected that the importance of temperature has more to do with impacting rates of other reactions than being a mechanism of disinfection itself since ponds are rarely hot enough for temperature alone to cause disinfection.
+```
+
+Better:
+
+```
+Ponds are rarely hot enough for temperature alone to cause disinfection; thus, the effect of temperature is likely mediated through its impact
+on the rates of other reactions.
+```
+
+#### 2.6.8  Example 8
+
+Bad:
+
+```
+It was assumed that due to reduced work at the joints of the lower limbs and less energy loss in the prosthetic leg, running with the dedicated
+prostheses allows for maximum sprinting at lower metabolic costs than in the healthy ankle joint complex.
+```
+
+Better:
+
+```
+The prosthetic leg reduces work and energy loss compared with a healthy ankle joint, which may lead to lower metabolic costs during maximum sprinting.
 ```
 
 ## 3. Paragraph editing
