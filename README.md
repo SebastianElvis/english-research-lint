@@ -96,6 +96,58 @@ This is an academic writing style guide written for programmers, compiled from [
       - [4.5.1. Check for consistency](#451-check-for-consistency)
       - [4.5.2. Check for numerical consistency](#452-check-for-numerical-consistency)
       - [4.5.3. Check your references](#453-check-your-references)
+      - [4.6 EXAMPLES](#46-examples)
+        - [4.6.1 EXAMPLE 1](#461-example-1)
+        - [4.6.2 EXAMPLE 2](#462-example-2)
+        - [4.6.3 EXAMPLE 3](#463-example-3)
+  - [5. The original manuscript](#5-the-original-manuscript)
+    - [5.1 One more tip on making writing easier…](#51-one-more-tip-on-making-writing-easier)
+    - [5.2 Recommended order for writing an original manuscript](#52-recommended-order-for-writing-an-original-manuscript)
+    - [5.3 Tables and Figures](#53-tables-and-figures)
+      - [5.3.1 Tables and Figures are the foundation of your story!](#531-tables-and-figures-are-the-foundation-of-your-story)
+      - [5.3.2 Tips on Tables and Figures](#532-tips-on-tables-and-figures)
+      - [5.3.3 Tables vs. Figures](#533-tables-vs-figures)
+      - [5.3.4 Table Title](#534-table-title)
+      - [5.3.5 Table Footnotes](#535-table-footnotes)
+      - [5.3.6 Table Formats](#536-table-formats)
+      - [5.3.7 Types of Figures](#537-types-of-figures)
+      - [5.3.8 Figure Legends](#538-figure-legends)
+      - [5.3.9 Types of Graphs](#539-types-of-graphs)
+      - [5.3.10 Tips for Graphs](#5310-tips-for-graphs)
+      - [5.3.11 Diagrams and Drawings](#5311-diagrams-and-drawings)
+    - [5.4 Results](#54-results)
+      - [5.4.1 Results ≠ Raw Data](#541-results--raw-data)
+      - [5.4.2 Example Results Edit](#542-example-results-edit)
+      - [5.4.3 Tips for writing Results](#543-tips-for-writing-results)
+      - [5.4.4 What verb tense do I use?](#544-what-verb-tense-do-i-use)
+      - [5.4.5 Use the active voice!](#545-use-the-active-voice)
+    - [5.6 Methods](#56-methods)
+      - [5.6.1 Methods and Materials](#561-methods-and-materials)
+      - [5.6.2 Materials and Methods](#562-materials-and-methods)
+      - [5.6.3 Verb tense](#563-verb-tense)
+      - [5.6.4 It’s OK to use passive voice (or even to use a combination)!](#564-its-ok-to-use-passive-voice-or-even-to-use-a-combination)
+    - [5.7 Introduction](#57-introduction)
+      - [5.7.1 Cone model](#571-cone-model)
+      - [5.7.2 Paragraph structure](#572-paragraph-structure)
+      - [5.7.3 Tips for writing an Introduction](#573-tips-for-writing-an-introduction)
+    - [5.8 Discussion](#58-discussion)
+      - [5.8.1 Invert the cone!](#581-invert-the-cone)
+      - [5.8.2 Structure of a Discussion section:](#582-structure-of-a-discussion-section)
+      - [5.8.3 Discussion section, tips](#583-discussion-section-tips)
+      - [5.8.4 Verb tense](#584-verb-tense)
+    - [5.9 Abstract](#59-abstract)
+      - [5.9.10 Structure of an Abstract](#5910-structure-of-an-abstract)
+      - [5.9.11 Example Abstract](#5911-example-abstract)
+  - [6. Plagiarism](#6-plagiarism)
+    - [6.1 What is Plagiarism of others’ work?](#61-what-is-plagiarism-of-others-work)
+    - [6.2 Plagiarism examples](#62-plagiarism-examples)
+      - [6.2.1 Example 1](#621-example-1)
+      - [6.2.2 Example 2](#622-example-2)
+      - [6.2.3 Example 3](#623-example-3)
+    - [6.3 How to avoid plagiarizing:](#63-how-to-avoid-plagiarizing)
+    - [6.4 Self-plagiarism and duplication](#64-self-plagiarism-and-duplication)
+    - [6.5 Prevalence of Plagiarism](#65-prevalence-of-plagiarism)
+  - [7. Further Reading](#7-further-reading)
 
 ## 0. Introduction
 
@@ -171,7 +223,7 @@ should be removed directly.
 
 ### 1.3. Long words or phrases that could be short
 
-Long words or phrases can always be converted to short words. 
+Long words or phrases can always be converted to short words.
 
 | Wordy                        | Crisp  |
 | :--------------------------- | :----- |
@@ -501,7 +553,7 @@ Using active voice is more direct.
 Reasons to use active voice:
 
 - **Active voice emphasizes author responsibility.**
-  
+
   > No attempt **was made** to contact non-responders because they **were deemed** unimportant to the analysis.
 
   should be
@@ -509,9 +561,9 @@ Reasons to use active voice:
   > **We did not attempt** to contact non-responders because **we deemed** them unimportant to the analysis.
 
 - **Active voice improves readability.**
-  
+
   > A strong correlation **was found** between use of the passive voice and other sins of writing.
-  
+
   should be
 
   > **We found** a strong correlation between use of passive voice and other sins of writing.
@@ -987,7 +1039,7 @@ Parallelism forces you to make a choice of the structure and stick to it.
 | Original                                                                                                                                                                                                                                | Upshot                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | The concept of chocolate having potential therapeutic benefits for people with diabetes mellitus, especially type 2 diabetes mellitus, presents a number of intellectual challenges, from both clinical and sociological perspectives.  | It's surprising that chocolate might be healthy.                                               |
-| it seems almost counterintuitive to suggest an energy-dense food that is high in sugar, and often seen as a treat or a “dietary sin”, could offer such promise.                                                                       | It's counterintuitive that chocolate might be healthy.                                         |
+| it seems almost counterintuitive to suggest an energy-dense food that is high in sugar, and often seen as a treat or a “dietary sin”, could offer such promise.                                                                         | It's counterintuitive that chocolate might be healthy.                                         |
 | However, a large volume of mechanistic and animal model studies has been undertaken demonstrating the potential benefits of cocoa and chocolate for both glucose regulation and modification of complications associated with diabetes. | Many studies suggest chocolate is healthy.                                                     |
 | Cesar Fraga in the American Journal of Clinical Nutrition first proposed the potential of chocolate for people with diabetes in 2005.                                                                                                   | The first of these studies was in 2005.                                                        |
 | It was suggested that we should consume more cocoa and chocolate to reduce the burdens of hypertension and diabetes.(1)                                                                                                                 | The study showed benefits for hypertension and diabetes.                                       |
@@ -1032,7 +1084,7 @@ The reader may think you are referring to a different instrument, model, group, 
 - Resist the temptation to abbreviate words simply because they occur frequently!
 - Use only standard acronyms/initialisms. DON'T make them up!
   - e.g. miR instead of micro RNA
-- If you must use acronyms, define them separately in the abstract, each table/figure, and the text. 
+- If you must use acronyms, define them separately in the abstract, each table/figure, and the text.
   - For long papers, redefine occasionally (as readers don't typically read start to finish).
 
 
@@ -1065,7 +1117,7 @@ The reader may think you are referring to a different instrument, model, group, 
 
 #### 4.2.1. Organising info
 
-- Get organised first
+- **Get organised first!**
   - DON'T try to write and gather info simultaneously
   - Gather and organise info BEFORE writing the first draft
 - Have your own organisational system
@@ -1123,8 +1175,6 @@ The reader may think you are referring to a different instrument, model, group, 
 - Repetitive words/phrases (e.g., teaches clinicians/guides clinicians)
 - Adverbs (e.g., very, really, quite, basically)
 
-
-
 #### 4.4.4. Do an organisational (high-level) review
 - Tag each paragraph with a phrase/sentence summarising the main point
 - Move paragraphs abound to improve logical flow and bring similar ideas together
@@ -1164,6 +1214,522 @@ The reader may think you are referring to a different instrument, model, group, 
   - Reference cites a secondary source than a primary source (i.e., citation propagation).
   - AUthors mis-numbered the references.
 
-Summary
 - Always cite/go back to primary sources!
 - Assume that other authors have made errors in citing sources!
+
+#### 4.6 EXAMPLES
+
+##### 4.6.1 EXAMPLE 1
+
+Bad:
+
+```
+In assessing the quality of an instrument we distinguish three quality domains, i.e. reliability, validity, and responsiveness. Each domain contains one or more measurement properties. The domain reliability contains three measurement properties: internal consistency, reliability, and measurement error. The domain validity also contains three measurement properties: content validity, construct validity, and criterion validity. The domain responsiveness contains only one measurement property, which is also called responsiveness. The term and definition of the domain and measurement property responsiveness are actually the same, but they are distinguished in the taxonomy for reasons of clarity. Some measurement properties contain one or more aspects, that were defined separately: Content validity includes face validity, and construct validity include structural validity, hypotheses testing, and cross-cultural validity.
+```
+
+Better:
+
+```
+We assess each instrument based on reliability, validity, and
+responsiveness. These domains may be subdivided into measurement properties: Reliability includes internal consistency, reliability, and measurement error; validity includes content validity, construct validity, and criterion validity; responsiveness is both a domain and a measurement property. Some measurement properties additionally contain
+multiple aspects; for example, construct validity includes structural validity, hypothesis testing, and cross-cultural validity.
+```
+
+##### 4.6.2 EXAMPLE 2
+
+Bad:
+
+```
+The church’s record-keeping system and its high level of accuracy has been previously reported (2). Briefly, the church creates and maintains a church record for each individual who is baptized into the church. These records are created at the congregation level at the time of baptism and then forwarded to the general church level where the membership record is added to the church membership database. These records contain minimal information including name, date of birth,
+parents’ names, dates of church ordinances, and current address. Each congregation has a lay membership clerk who is responsible for updating the membership records for the members of the congregation. Such updates would include dates of ordinances received after baptism (e.g., priesthood ordination or marriage), name of spouse when a member marries, change of current address and date of death.
+```
+
+Better:
+
+```
+While the accuracy of the church record is dependent upon lay clerks within each congregation, each member has an opportunity to review their membership record once a year to check it for accuracy. For this reason and because the church emphasizes accurate record keeping, the information available from the church records is quite reliable, especially for members who are actively involved in the church. When
+a member dies and the clerk reports his/her death to the Church Membership Council, the membership record is updated and then archived in the church’s deceased membership file.
+```
+
+##### 4.6.3 EXAMPLE 3
+Bad:
+
+```
+Previous studies have consistently reported increased risk of subsequent drug use associated with conduct problems and antisocial behavior in childhood (1-5), and an association of drug dependence with conduct problems was found in a general survey of young adults (9). Furthermore, long-term relationships between aggressive, unconventional, and impulsive behaviors have also been found with drug use involvement generally (10-12). However, different pathways between early childhood misbehavior and drug involvement may exist. Psychiatric symptoms and cognitive disabilities may be manifest as aggressive behaviors and drug use may be a response to impulsive tendencies that often co-occur with aggression or misbehavior. Distress and failure to adopt responsible conventional roles and behaviors may be important mediators linking childhood misbehavior to late drug dependence (13,14).
+```
+
+Better:
+
+```
+Previous studies have linked early childhood conduct problems with subsequent drug use (1-5). Studies have also found that young adult (9) and adult (10-12) drug users exhibit more aggressive, unconventional, and impulsive behaviors than their peers.
+
+Several pathways may explain our finding: aggressive children may have underlying psychiatric disorders or cognitive disabilities that increase their risk of drug use; misbehavior tends to co-occur with impulsivity, which increases the risk of drug use; and childhood misbehavior may lead to long-term problems, such as persistent distress or a failure to ever adopt conventional roles or behaviors, which may lead to drug dependence (13,14).
+```
+
+## 5. The original manuscript
+
+### 5.1 One more tip on making writing easier…
+- Break your writing task into small and realistic goals.
+  - Examples:
+    - My goal is to write 400 words today.
+    - My goal is to write the first two paragraphs of the discussion section today.
+
+### 5.2 Recommended order for writing an original manuscript
+1. Tables and Figures
+2. Results
+3. Methods
+4. Introduction
+5. Discussion
+6. Abstract
+
+### 5.3 Tables and Figures
+
+#### 5.3.1 Tables and Figures are the foundation of your story!
+- Editors, reviewers, and readers may look first (and maybe only) at titles, abstracts, and tables and figures!
+- Figures and tables should stand alone and tell a complete story. The reader should not need to refer back to the main text.
+
+#### 5.3.2 Tips on Tables and Figures
+
+- Use the fewest figures and tables needed to tell the story.
+
+- Do not present the same data in both a figure and a table.
+
+#### 5.3.3 Tables vs. Figures
+
+- Figures
+  - Visual impact
+  - Show trends and patterns
+  - Tell a quick story
+  - Tell the whole story
+  - Highlight a particular result
+- Tables
+  - Give precise values
+  - Display many values/variables
+
+#### 5.3.4 Table Title
+
+- Identify the specific topic or point of the table.
+- Use the same key terms in the table title, the column headings, and the text of the paper
+- Keep it brief!
+- Example: “Descriptive characteristics of the two treatment groups, means ± SD or N (%)”
+
+#### 5.3.5 Table Footnotes
+
+- Use superscript symbols to identify footnotes, according to journal guidelines;
+  - A standard series is: *, †,‡,¶,#,**,††, etc.
+- Use footnotes to explain statistically significant differences
+  - E.g., *p<.01 vs. control by ANOVA
+- Use footnotes to explain experimental details or abbreviations
+  - E.g., EDI is the Eating Disorder Inventory (reference)
+  - Amenorrhea was defined as 0-3 periods per year
+
+#### 5.3.6 Table Formats
+
+*Model your tables from already published tables! Don’t re-invent the wheel!!*
+
+- Follow journal guidelines RE:
+  - Roman or Arabic numbers
+  - centered or flush left table number, title, column, headings, and data
+  - capital letters and italics
+  - the placement of footnotes
+  - the type of footnote symbols
+- Most journals use three horizontal lines: one above the column headings, one below the column headings, and one below the data
+
+- Don't use grid lines!
+- Make sure everything lines up and looks professional!
+- Use a reasonable number of significant figures.
+- Give units!
+- Omit unnecessary columns!
+
+#### 5.3.7 Types of Figures
+
+1. Primary evidence
+   - electron micrographs, gels, photographs, pathology slides, X-rays, etc.
+   - indicates data quality
+   - “Seeing is believing”
+2. Graphs
+   - line graphs, bar graphs, scatter plots, histograms, boxplots, etc.
+3. Drawings and diagrams
+   - illustrate an experimental set-up or work-flow
+   - indicate flow of participants
+   - illustrate cause and effect relationships or cycles
+   - give a hypothetical model
+   - represent microscopic particles or microorganisms as cartoons
+
+#### 5.3.8 Figure Legends
+
+**Allows the figure to stand alone.
+
+May contain:
+
+1. Brief title
+2. Essential experimental details
+3. Definitions of symbols or line/bar patterns
+4. Explanation of panels (A,B,C,D, etc.)
+5. Statistical information (tests used, p-values)
+
+#### 5.3.9 Types of Graphs
+
+- Line graphs
+  - Used to show trends over time, age, or dose (can display group means or individuals)
+- Bar Graphs
+  - Used to compare groups at one time point
+  - Tells a quick visual story
+- Scatter Plots
+  - Used to show relationships between two variables (particularly linear correlation)
+  - Allows reader to see individual data points=more information!
+
+#### 5.3.10 Tips for Graphs
+
+- Tell a quick visual story
+- Keep it simple!
+- Make it easy to distinguish groups (e.g., triangles vs. circles vs. squares is not easy!)
+- If it’s too complex, maybe it belongs in a table
+
+#### 5.3.11 Diagrams and Drawings
+
+- illustrate an experimental set-up or work-flow
+- indicate flow of participants
+- illustrate cause and effect relationships or cycles
+- give a hypothetical model
+- represent microscopic particles or microorganisms as cartoons
+
+### 5.4 Results
+
+#### 5.4.1 Results ≠ Raw Data
+
+The results section should:
+
+- Summarize what the data show
+  - Point out simple relationships
+  - Describe big-picture trends
+  - Cite figures or tables that present supporting data
+- Avoid simply repeating the numbers that are already available in tables and figures.
+
+#### 5.4.2 Example Results Edit
+
+Original:
+
+```
+The characteristics of the bad witches and the good witches are shown in Table 1. There was a significant difference in age between the groups. The mean age of the bad witches was 45 ± 5; and the mean age of the good witches was 36 ± 6. There was no significant difference in gender between the groups, with the bad witches having 85% females and the good witches having 83% females. BMI was not significantly different between the groups, which both had normal BMIs. Systolic blood pressure and exercise were significantly different. The bad witches had a mean blood pressure of 140 ± 10, whereas the good witches had a mean blood pressure of 120 ± 9. Estimated daily exercise was higher in the good witches (60 ± 30) than the bad witches (30 ± 20). Employment was not significantly different between the two groups…
+```
+
+Revised:
+
+```
+The witches were, on average, lean and predominantly female (Table 1). Bad witches were significantly older, had higher blood pressures, exercised less, and were more likely to smoke than good witches. More bad witches were unemployed, but this difference did not reach statistical significance.
+```
+
+#### 5.4.3 Tips for writing Results
+
+- Break into subsections, with headings (if needed)
+- Complement the information that is already in tables and figures
+  - Give precise values that are not available in the figure
+  - Report the percent change or percent difference if absolute values are given in the table
+- Repeat/highlight only the most important numbers
+-  Don’t forget to talk about negative and control results
+- Reserve the term “significant” for statistically significant
+- Reserve information about what you did for the methods section
+  - In particular, do not discuss the rationale for statistical analyses within the Results section.
+- Reserve comments on the meaning of your results for the discussion section
+
+#### 5.4.4 What verb tense do I use?
+
+Use past tense for completed actions:
+
+- We found that…
+- The average reaction time was…
+- Women were more likely to…
+- Men smoked more cigarettes than…
+
+Use the present tense for assertions that continue to  be true, such as what the tables show, what you believe, and what the data suggest:
+
+- Figure 1 shows…
+- The findings confirm…
+- The data suggest…
+- We believe that this shows…
+
+#### 5.4.5 Use the active voice!
+
+Since you can talk about the subjects of your experiments, “we” can be used sparingly while maintaining the active voice!
+
+### 5.6 Methods
+
+#### 5.6.1 Methods and Materials
+
+- Give a clear overview of what was done
+- Give enough information to replicate the study (like a recipe!)
+- Be complete, but make life easy for your reader!
+
+1. Break into smaller sections with subheadings
+2. Cite a reference for commonly used methods
+3. Display in a flow diagram or table where possible
+
+- You may use jargon and the passive voice more liberally in the methods section
+
+- Answers the Who, what, when, where, how, and why…
+- Yes. You can use figures in your method section if it makes the explanation easier
+
+#### 5.6.2 Materials and Methods
+
+- Materials
+  - Drugs, buffers, chemicals, gases, reagents, cell lines, etc.
+- Participants/subjects
+  - Animals (state that the research was approved by the appropriate committee at your institution)
+  - Humans (state that the research was approved by the appropriate committee at your institution)
+- Experimental protocol/study design
+- Measurements
+  - How were the dependent and independent variables measured
+    - Instruments (telescope, microscope, weighing scale, questionnaire, etc.)
+- Analyses
+
+#### 5.6.3 Verb tense
+
+- Report methods in past tense (“we measured”),
+- But use present tense to describe how data are presented in the paper (“data are summarized as means +- SD”)
+
+#### 5.6.4 It’s OK to use passive voice (or even to use a combination)!
+**Passive:**
+
+- E.g., Oral temperatures were measured.
+- Emphasizes the method or variable.
+
+**Active**:
+
+- E.g., We measured oral temperatures
+- More lively, but sacrifices having the material/method/variable as the subject of the sentence
+- Requires creativity to avoid starting every sentence with We!
+
+**Even jargon is OK!**
+
+### 5.7 Introduction
+
+- Good News: The introduction is easier to write than you may realize!
+- Follows a fairly standard format
+- Typically 3 paragraphs long
+  - Recommended range: 2 to 5
+- It is <u>not</u> an exhaustive review of your general topic
+  - should focus on the specific hypothesis/aim of your study
+
+#### 5.7.1 Cone model
+
+Narrow down from general to specific:
+
+1. Background, known information
+2. Knowledge gap, unknown information
+3. Hypothesis, question, purpose statement
+4. Approach, plan of attack, proposed solution
+
+#### 5.7.2 Paragraph structure
+
+**1. First**
+
+- What’s known
+
+**2. Second**
+
+- What’s unknown
+  - limitations and gaps in previous studies
+
+**3. Third**
+
+- Your burning question
+- Your experimental approach
+- Why your experimental approach is new and different and important (fills in the gaps)
+
+#### 5.7.3 Tips for writing an Introduction
+
+- Keep paragraphs short
+- Write for a general audience
+  - clear, concise, non-technical
+- Take the reader step by step from what is known to what is unknown. End with your specific question.
+  - Known -> Unknown -> Question/hypothesis
+- Emphasize how your study fills in the gaps (the unknown)
+- Explicitly state your research question/aim/hypothesis:
+  - “We asked whether”; “Our hypothesis was”; “We tested the hypothesis that”; “Our aim/s were”
+- Do not answer the research question (no results or implications).
+- Summarize at a high level! Leave detailed descriptions, speculations, and criticisms of particular studies for the discussion.
+
+### 5.8 Discussion
+
+The Discussion section…
+
+- Gives you the most freedom
+- Gives you the most chance to put good writing on display
+- Is the most challenging to write
+
+#### 5.8.1 Invert the cone!
+
+1. Answer the question asked.
+2. Support your conclusion (your data, other's data)
+3. Defend your conclusion (anticipate criticisms)
+4. Give the "big-picture" take-home message
+
+i.e. what do my results mean and why should anyone care?
+
+#### 5.8.2 Structure of a Discussion section:
+
+1. Key finding (answer to the question(s) asked in Intro.)
+   - Start with: “WE FOUND THAT…” (or something similar)
+   - Explain what the data mean (big-picture!)
+   - State if the findings are novel
+2. Key secondary findings
+3. Context
+   - Give possible mechanisms or pathways
+   - Compare your results with other people’s results
+   - Discuss how your findings support or challenge the paradigm
+4. Strengths and limitations
+   - Anticipate readers’ questions/criticisms
+   - Explain why your results are robust
+5. What's next
+   - Recommended confirmatory studies (“needs to be confirmed”)
+   - Point out unanswered questions and future directions
+6. The “so what?”: implicate, speculate, recommend
+   - Give the big-picture (human) implications of basic science findings
+   - Tell readers why they should care
+7. Strong conclusion
+   - Restate your main finding.
+   - Give a final take-home message.
+
+#### 5.8.3 Discussion section, tips
+
+- Showcase good writing!
+  - Use the active voice
+  - Tell it like a story
+- Start and end with the main finding
+  - “We found that…”
+- Don’t travel too far from your data
+  - Focus on what your data do prove, not what you had hoped your data would prove
+- Focus on the limitations that matter, not generic limitations
+- Make sure your take-home message is clear and consistent
+
+#### 5.8.4 Verb tense
+
+**Past**, when referring to study details, results, analyses, and background research:
+
+- We found that
+- Subjects may have experienced
+- Miller et al. found
+
+**Present**, when talking about what the data suggest:
+
+- The greater weight loss suggests
+- The explanation for this difference is not clear.
+- Potential explanations include
+
+### 5.9 Abstract
+
+*Abstracts (ab=out, trahere=pull; “to pull out”)*
+
+- Overview of the main story
+- Gives highlights from each section of the paper
+- Limited length (100-300 words, typically)
+- Stands on its own
+- **Most often, the only part people read!**
+
+#### 5.9.10 Structure of an Abstract
+
+1. Background
+2. Question/aim/hypothesis
+- “We asked whether,” “We hypothesized that,”…etc .
+3. Experiment(s)
+- Quick summary of key materials and methods
+4. Results
+- Key results found
+- Minimal raw data (prefer summaries)
+5. Conclusion: The answer to the question asked/take home message
+6. Implication, speculation, or recommendation
+
+Abstracts may be structured (with subheadings) or free-form.
+
+#### 5.9.11 Example Abstract
+
+**Objectives** To assess the amount, relevance, content, and suppressibility of academic electronic spam invitations to attend
+conferences or submit manuscripts.
+**Design** Prospective cohort study.
+**Setting** Email accounts of participating academics.
+**Participants** Five intrepid academics and a great many publishers, editors, and conference organizers.
+**Intervention** Unsubscribing from sender’s distribution lists.
+**Main outcome measures** Number of spam invitations received before, immediately after, and one year after unsubscribing from senders’ distribution lists. The proportion of duplicate invitations was also assessed and the relevance of each invitation graded to the recipient’s research interests. A qualitative assessment of the content of spam invitations was conducted.
+
+- **Results** At baseline, recipients received an average of 312 spam invitations each month. Unsubscribing reduced the frequency of the invitations by 39% after one month but by only 19% after one year. Overall, 16% of spam invitations were duplicates and 83% had little or no relevance to the recipients’ research interests. Spam invitations were characterized by inventive language, flattery, and exuberance, and they were sometimes baffling and amusing.
+- **Conclusions** Academic spam is common, repetitive, often irrelevant, and difficult to avoid or prevent.
+
+
+
+## 6. Plagiarism
+
+### 6.1 What is Plagiarism of others’ work?
+
+Passing off other people’s writing (or tables and figures) as your own.
+
+- Includes:
+  - cutting and pasting sentences or even phrases from another source
+  - slightly rewriting or re-arranging others’ words
+  - “borrowing” material from sites like Wikipedia
+
+### 6.2 Plagiarism examples
+
+#### 6.2.1 Example 1
+
+**Original Version (Wikipedia):**
+
+> Ernest Miller Hemingway (July 21, 1899– July 2, 1961) was an American author and journalist. His economical and understated style had a strong influence on 20th-century fiction, while his life of adventure and his public image influenced later generations. (Source: Wikipedia)
+
+**Plagiarized Version:**
+
+> Ernest Hemingway’s thrifty and understated style strongly influenced 20th-century fiction. His audacious lifestyle and public image also influenced later generations.
+
+#### 6.2.2 Example 2
+
+**Original passage (Klibanski et al. 1995):**
+
+> “Our data demonstrate that, despite its usefulness in perimenopausal women, estrogen and progestin administration does not reverse the profound osteopeniaseen in all young women with anorexia nervosa. Trabecular bone loss is severe and may progress despite estrogen therapy.”
+
+**Plagiarized passage (Munoz et al. 2002):**
+
+> “In conclusion, our data demonstrate that, despite its usefulness in perimenopausal women, estrogen and progestin administration does not reverse the profound osteopenia seen in all young women with AN. Trabecular bone loss is severe and may progress despite estrogen therapy.”
+
+#### 6.2.3 Example 3
+
+**Original passage (Klibanski et al. 1995):**
+
+>“There are no prospective studies of trabecular BD in adult women with anorexia nervosa, and it is unknown whether there
+>is a progressive and permanent decline in bone mass. Although the role of estrogen replacement therapy in preventing bone
+>loss in premenopausal women is clearly established, no studies have addressed whether is is beneficial in young women with premenopausal osteopenia.”
+
+**Plagiarized passage (Munoz et al. 2002):**
+
+> “There are some published data on trabecular bone mineral density (BMD) in adult women with AN. but it is still unknown
+> whether there is a progressive or permanent decline in bone mass. Although the role of estrogen replacement therapy in
+> preventing bone loss in menopausal women has been clearly established, no studies have been carried out to determine
+> whether it is beneficial in young women with premenopausal osteopenia”
+
+### 6.3 How to avoid plagiarizing:
+
+- You must understand the material well enough to put it in your own words!
+- Work from memory
+- Draw your own conclusions
+- Do not mimic the original author’s sentence structure or just re-arrange the original author’s words.
+
+### 6.4 Self-plagiarism and duplication
+
+Recycling your own writing or data, including:
+
+- Copying or only slightly rewriting text from your own previously published papers.
+- Adding new data to already published data and presenting it as new results.
+- Submitting identical or overlapping data to multiple journals.
+
+### 6.5 Prevalence of Plagiarism
+
+- In pilot studies, publishers that used CrossCheck to look for plagiarism had to reject 6% to 23% of submitted papers (due to plagiarism or self plagiarism/duplication).
+- 2-year study of plagiarism in the Croatian Medical Journal (automatic detection software followed by manual confirmation):
+  - 8% of papers plagiarized others’ work
+  - 3% of papers were self-plagiarized
+
+## 7. Further Reading
+
+- Strunk and White’s classic, The Elements of Style, http://www.bartleby.com/141/
+- Clinical Chemistry Guide to Scientific Writing: http://www.aacc.org/publications/clin_chem/ccgsw/Pages/default.aspx#
+- Mimi Zeiger. Essentials of Writing Biomedical Research Papers, McGraw Hill
+  Professional
