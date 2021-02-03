@@ -1,4 +1,4 @@
-# (WIP) Academic Writing Style Guide for Programmers
+# Academic Writing Style Guide for Programmers
 
 This is an academic writing style guide written for programmers, compiled from [Writing in the Sciences by Stanford University](https://www.coursera.org/learn/sciwrite).
 
