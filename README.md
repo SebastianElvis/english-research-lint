@@ -4,7 +4,7 @@ This is an academic writing style guide written for programmers, compiled from [
 
 ## Table of Contents
 
-- [(WIP) Academic Writing Style Guide for Programmers](#wip-academic-writing-style-guide-for-programmers)
+- [Academic Writing Style Guide for Programmers](#academic-writing-style-guide-for-programmers)
   - [Table of Contents](#table-of-contents)
   - [0. Introduction](#0-introduction)
     - [0.1 What makes good writing?](#01-what-makes-good-writing)
